@@ -1,0 +1,80 @@
+<html>
+<head>
+<title>Resume</title>
+</head>
+<body>
+<table align="center" width="55%">
+<th bgcolor="AFEEEE" align="left" width="45%">
+<style>
+img {
+  border-radius: 50%;
+}
+</style>
+<style>
+img { 
+    margin-top: 5px; 
+  }
+</style>
+<center>
+  <img src="C:\Users\KEERTHANA\Downloads\profile.jpeg" height="250" width="180" border="2">
+</center>
+<font face="Calibri Light" size="6px"><u>CONTACT</u></font>
+<br>
+<ul>
+   <li>Address: <br>Periyar nagar,Kinathukadavu, <br>Coimbatore</li>
+   <li>Phone: <br>+91 9698785660</li>
+   <li>Email: <br>keerthanaselvakumar31@gmail.com</li>
+   <li>Linkedin: <br>https://www.linkedin.com/in/keerthana-s-a77441211</li>
+</ul>
+<br>
+<font face="Calibri Light" size="6px"><u>STRENGTHS</u></font>
+<br>
+<ul>
+   <li>Self motivated</li>
+   <li>Decision making</li>
+   <li>Flexibility</li>
+   <li>Optimistic</li>
+</ul>
+<br>
+<font face="Calibri Light" size="6px"><u>TECHNICAL SKILLS</u></font>
+<br>
+<ul>
+   <li>JAVA</li>
+   <li>C Programming</li>
+   <li>SQL</li>
+</ul>
+<br>
+
+<th  align="left">
+  <font face="Calibri Light" size="8px">KEERTHANA S</font><br>
+<font face="Calibri Light" size="6px"><u>CAREER OBJECTIVE</u></font>
+<ul>
+     Highly passionate and creative individual looking for a challenging position 
+in an organization to enhance my skills with perseverance and dedication for the success of the organization 
+</ul>
+
+<font face="Calibri Light" size="6px"><u>EDUCATION HISTORY</u></font>
+<br>
+<ul>
+   <li><h4>Sri Krishna College of Engineering and Technology, Coimbatore</h4></li>
+   <p>2019 - 2023 </p>
+   <p>CGPA - 9.1 </p>
+   <li><h4>Vivek Vidyalaya Matric Higher Secondary School,Coimbatore</h4></li>
+   <p>June 2018 - April 2019 </p>
+   <p>PERCENTAGE - 88% </p>
+   <li><h4>Vivek Vidyalaya Matric Higher Secondary School,Coimbatore</h4></li>
+   <p>June 2016 - May 2017 </p>
+   <p>PERCENTAGE - 99% </p>
+</ul>
+<br>
+<font face="Calibri Light" size="6px"><u>PROJECTS</u></font>
+<ul>
+    <h4>Vehicle Testing using Machine Learning</h4>
+    <li>To detect the amount of smoke emitted by the vehicle and predict whether the vehicle is safe to run or not</li>
+    <h4>Human Activity Recognition using Machine Learning</h4>
+    <li>To detect the brain signals and use those brain signals to monitor the mental health of students during online classes</li>
+</ul>
+</th>
+</table>
+</body>
+</html>
