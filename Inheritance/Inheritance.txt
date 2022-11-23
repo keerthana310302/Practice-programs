@@ -1,0 +1,26 @@
+public class Animal 
+{ 
+  void food()
+  { 
+     System.out.println("What kind of food?"); 
+  } 
+} 
+public class Lion extends Animal 
+{ 
+   void food(int x)
+   { 
+      System.out.println("Lions eat flesh"); 
+   } 
+ } 
+public class LionTest extends Lion 
+{ 
+  public static void main(String[] args) 
+  { 
+    Animal a = new Lion(); 
+      a.food();  
+
+   Lion l = new Lion();  
+    l.food();   
+    l.food(10); 
+  } 
+}
